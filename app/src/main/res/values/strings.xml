@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Other</string>
+    <string name="verificar_se_primo">Verificar se é primo</string>
+    <string name="primos">Números primos</string>
+</resources>
